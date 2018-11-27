@@ -6,6 +6,7 @@ setup(
     descrition='Logs directly to google cloud',
     license='MIT',
     author='Alex Chaplianka',
+    url="https://github.com/aclowkey",
     author_email='alexettelis@gmail.com',
     download_url='https://github.com/aclowkey/google-cloud-logging-handler/archive/v1.0.tar.gz',
     keywords=['google-cloud','logging'],
