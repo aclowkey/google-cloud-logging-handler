@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='Google cloud logging handler',
+    name='google_cloud_logging_handler',
     version='1.0',
     descrition='Logs directly to google cloud',
     license='MIT',
