@@ -2,3 +2,4 @@
 __pycache__/*
 venv/*
 dist/*
+google_cloud_logging_handler.egg-info/*
