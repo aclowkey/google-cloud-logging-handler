@@ -11,7 +11,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='google_cloud_logging_handler',
-    version='1.1',
+    version='1.2',
     descrition='Logs directly to google cloud',
     long_description=long_description,
     long_description_content_type='text/markdown',
