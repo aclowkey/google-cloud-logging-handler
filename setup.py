@@ -19,7 +19,7 @@ setup(
     author='Alex Chaplianka',
     url="https://github.com/aclowkey",
     author_email='alexettelis@gmail.com',
-    download_url='https://github.com/aclowkey/google-cloud-logging-handler/archive/v1.0.tar.gz',
+    download_url='https://github.com/aclowkey/google-cloud-logging-handler/archive/v1.2.tar.gz',
     keywords=['google-cloud','logging'],
     packages=['google_cloud_logging_handler'],
     install_requires=['google-cloud-logging']
